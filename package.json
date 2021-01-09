@@ -6,9 +6,14 @@
   "scripts": {
     "sender": "ts-node-dev src/directToTheQueue/sender.ts",
     "worker": "ts-node-dev src/directToTheQueue/worker.ts.ts",
-    "publ": "ts-node-dev src/publish.ts",
-    "sub:1": "ts-node-dev src/subscribe-1.ts",
-    "sub:2": "ts-node-dev src/subscribe-2.ts"
+    "direct:pub": "ts-node-dev src/directExchangeType/publish.ts",
+    "direct:sub-1": "ts-node-dev src/directExchangeType/subscribe-1.ts",
+    "direct:sub-2": "ts-node-dev src/directExchangeType/subscribe-2.ts",
+    "topic:pub": "ts-node-dev src/topicExchangeType/publish.ts",
+    "topic:sub-1": "ts-node-dev src/topicExchangeType/subscribe-1.ts",
+    "topic:sub-2": "ts-node-dev src/topicExchangeType/subscribe-2.ts",
+    "client": "ts-node-dev src/client.ts",
+    "server": "ts-node-dev src/server.ts"
   },
   "keywords": [],
   "author": "",
