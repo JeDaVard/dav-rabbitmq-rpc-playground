@@ -12,8 +12,10 @@
     "topic:pub": "ts-node-dev src/topicExchangeType/publish.ts",
     "topic:sub-1": "ts-node-dev src/topicExchangeType/subscribe-1.ts",
     "topic:sub-2": "ts-node-dev src/topicExchangeType/subscribe-2.ts",
-    "client": "ts-node-dev src/client.ts",
-    "server": "ts-node-dev src/server.ts"
+    "client": "ts-node-dev src/mqRPC/client.ts",
+    "server": "ts-node-dev src/mqRPC/server.ts",
+    "pub": "ts-node-dev src",
+    "sub": "ts-node-dev src/sub.ts"
   },
   "keywords": [],
   "author": "",
@@ -29,6 +31,7 @@
     "typescript": "^4.1.3"
   },
   "devDependencies": {
+    "nodemon": "^2.0.7",
     "prettier": "^2.2.1"
   }
 }
