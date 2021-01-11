@@ -2,21 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7920d956-45c6-40f2-aff3-2041c1951727" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/p.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/s.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/ExchangeType.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/Listener.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/Publisher.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/RabbitMQ.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/mq-client.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mqRPC/client.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mqRPC/server.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pub.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sub.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/p.js" beforeDir="false" afterPath="$PROJECT_DIR$/p.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s.js" beforeDir="false" afterPath="$PROJECT_DIR$/s.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +55,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1610116082429</updated>
-      <workItem from="1610116084205" duration="64815000" />
+      <workItem from="1610116084205" duration="65672000" />
+      <workItem from="1610363828465" duration="8056000" />
     </task>
     <servers />
   </component>
@@ -84,6 +73,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
